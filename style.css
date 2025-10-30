@@ -1,0 +1,47 @@
+
+.container {
+    border: 3px solid black;
+    display: flex;
+    height: 90vh;
+
+}
+
+
+.item {
+    padding: 40px;
+    font-size: 25px;
+    height:  fit-content;
+    width: fit-content;
+
+}
+
+
+
+
+.item_1 {
+    border: 5px solid yellow;
+
+
+
+}
+
+
+
+.item_2 {
+    border: 5px solid blue;
+
+
+
+
+
+}
+
+
+
+
+.item_3 {
+    border: 5px solid red;
+
+
+
+}
